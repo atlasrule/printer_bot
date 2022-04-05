@@ -10,7 +10,7 @@ import win32print
 from im2pdf import convert
 
 
-token = "5152352411:AAEYz6u0xyqxgI89b42M3SO4C1AeT0qG5Gk"
+token = ""
 
 
 updater = Updater(token=token, use_context=True)
